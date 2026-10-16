@@ -1,0 +1,6 @@
+config.properties
+data/
+output/
+build/
+target/
+*.class
